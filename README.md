@@ -3,7 +3,7 @@
 
 ### Pizza Panic videogame.
 
-Made in c++, it's a videogame made for scientific childhood day (april 2023). The repository can be found [here](https://github.com/denisseantunez/PizzaPanic)
+Made in c++, it's a videogame made for scientific childhood day (april 2023). The repository can be found [here](https://github.com/Mgb64/PizzaPanic)
 
 ### Van der Waals gas simulation.
 
