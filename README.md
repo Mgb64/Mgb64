@@ -3,7 +3,7 @@
 
 ### Pizza Panic
 
-Hecho en c++, fue un proyecto que hicimos para el día de la niñez científica. Se puede ver [aquí] (https://github.com/denisseantunez/PizzaPanic.git)
+Hecho en c++, fue un proyecto que hicimos para el día de la niñez científica. Se puede ver [aquí](https://github.com/denisseantunez/PizzaPanic)
 
 ### Gas de Van der Walls $(P + a(\dfrac{a}{V})^2)\,\,(\dfrac{V}{n} - b) = RT$
 
