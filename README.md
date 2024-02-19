@@ -1,13 +1,14 @@
 
 ## My projects
 
-### Pizza Panic
+### Pizza Panic videogame.
 
-Made in c++, it's a videogame made for scientific childhood day. The repositoyu can be found [here](https://github.com/denisseantunez/PizzaPanic)
+Made in c++, it's a videogame made for scientific childhood day (april 2023). The repository can be found [here](https://github.com/denisseantunez/PizzaPanic)
 
-### Simulación del gas de Van der Walls
+### Van der Waals gas simulation.
 
-Made in java, it's a GUI project made in my 2nd college year. It simulates Van der Waals gas in a piston. 
+Made in java, it's a GUI project made in my 2nd college year. It simulates the Van der Waals gas in a piston.  
+The repositoy can be found [here](https://github.com/Mgb64/Simulacion-del-gas-de-Van-der-Waals)
 
 
 
