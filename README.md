@@ -10,6 +10,9 @@ Made in c++, it's a videogame made for scientific childhood day (april 2023). Th
 Made in java, it's a GUI project made in my 2nd college year. It simulates the Van der Waals gas in a piston.  
 The repositoy can be found [here](https://github.com/Mgb64/Simulacion-del-gas-de-Van-der-Waals)
 
+### B* Tree
+
+Made in c++, it's a implementation of a B* tree for the course "Data Structures". The repository can be found here.
 
 
 
